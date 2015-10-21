@@ -1,0 +1,43 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #000;
+	font-family: 'Special Elite', cursive;
+	color: #fff;
+	font-size: 1.5em;
+}
+
+h2{
+	text-align: center;
+}
+
+form{
+	background: #F2322F;
+	margin-left: 30%;
+	margin-right: 30%;
+	border: .5em solid #fff;
+	padding-left: 2%;
+	padding-right: 2%;
+	h3{
+		margin: 0;
+		margin-top: .5em;
+	}
+	input {
+		width: 100%;
+		height: 3em;
+		margin: 0;
+		padding: 0;
+		margin-bottom: 1em;
+		border: .3em solid #fff;
+		background: #F2322F;
+		outline: none;
+	}
+	button {
+		width: 101%;
+		height: 3em;
+		margin-bottom: 3em;
+		border: .3em solid #fff;
+		background: #F2322F;
+		outline: none;
+	}
+}
